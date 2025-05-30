@@ -1,0 +1,9 @@
+{
+  "name": "Pseudo Line Portfolio",
+  "description": "A portfolio website for Pseudo Line, showcasing projects, offerings, and company information, built with React, TypeScript, and Tailwind CSS. Pseudo Line is a future-forward, polymathic enterprise working at the intersection of software engineering, cybersecurity, open-source education, AI tools, and creative development.",
+  "features": [
+    "pwa"
+  ],
+  "requestFramePermissions": [],
+  "prompt": ""
+}

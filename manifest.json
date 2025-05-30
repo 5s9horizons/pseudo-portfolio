@@ -1,0 +1,24 @@
+{
+  "short_name": "PseudoLine",
+  "name": "Pseudo Line Portfolio",
+  "description": "A portfolio website for Pseudo Line, showcasing projects, offerings, and company information, built with React, TypeScript, and Tailwind CSS. Pseudo Line is a future-forward, polymathic enterprise working at the intersection of software engineering, cybersecurity, open-source education, AI tools, and creative development.",
+  "icons": [
+    {
+      "src": "/icons/pwa/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/pwa/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#00FF88",
+  "background_color": "#030712"
+}
